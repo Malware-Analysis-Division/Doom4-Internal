@@ -1,10 +1,10 @@
 # Doom4-Internal
 
-✔️ Infinity Health
-✔️ Infinity Ammo
+* ✔️ Infinity Health
+* ✔️ Infinity Ammo
 
-❌ Aim
-❌ No spread
-❌ No recoil
-❌ Wallhack
-❌ Magic bullet
+* ❌ Aim
+* ❌ No spread
+* ❌ No recoil
+* ❌ Wallhack
+* ❌ Magic bullet
